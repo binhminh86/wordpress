@@ -1,0 +1,17 @@
+<wpml-config>
+  <admin-texts>
+    <key name="business_world_options">
+      <key name="seo_home_titletext" />
+      <key name="seo_home_descriptiontext" />
+      <key name="seo_home_keywordstext" />
+      <key name="logo_text" />
+      <key name="footer_text" />
+      <key name="top_post_cat_name" />
+      <key name="top_post_desc" />
+      <key name="content_post_cat_name" />
+      <key name="content_post_desc" />
+      <key name="contact_us_title" />
+      <key name="contact_us_description" />
+    </key>
+  </admin-texts>  
+</wpml-config>
